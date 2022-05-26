@@ -1,0 +1,5 @@
+-> double linked list
+-> fourth problem in https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/4_hash_table_exercise.md
+-> revisit the second problem in video #7
+-> in vid 8 exercise, second is done, but want to revisit
+-> in vid 9 exercise, unable to try something differently, revisit
